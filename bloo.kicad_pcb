@@ -10115,7 +10115,7 @@
 	(footprint "MM_Library:Emitter"
 		(layer "F.Cu")
 		(uuid "61d046ef-21e4-4add-8f20-35896a959c9b")
-		(at 214.567626 207.335 180)
+		(at 226.767626 195.235 180)
 		(descr "LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins")
 		(tags "LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins")
 		(property "Reference" "Q0"
@@ -19735,7 +19735,7 @@
 		(property "Reference" "D2"
 			(at 1.304011 1.909755 90)
 			(layer "F.SilkS")
-			(uuid "32f6c287-bf29-4233-92a5-3380ca074dad")
+			(uuid "261b6924-b036-45f2-ac80-4a93b894ad1c")
 			(effects
 				(font
 					(size 1 1)
@@ -19746,7 +19746,7 @@
 		(property "Value" "SFH4545"
 			(at 1.27 10.17 90)
 			(layer "F.Fab")
-			(uuid "2753cbdd-f403-45b9-8486-a06288fd2f11")
+			(uuid "c25c606c-3684-4722-9af5-21eb01541537")
 			(effects
 				(font
 					(size 1 1)
@@ -19758,7 +19758,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ea3c97b-3eb8-48b7-bb41-45c90107faaf")
+			(uuid "3159dcf7-cd3d-4676-b513-60d562cf79ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19769,7 +19769,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37ff411f-3eb8-430f-aeb7-8c852d8c0800")
+			(uuid "44393be8-ffe5-4f72-9360-9fada2b284a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27848,6 +27848,17 @@
 		(layer "Edge.Cuts")
 		(uuid "e34525dd-7147-410e-98e7-13f2bbe9d36c")
 	)
+	(gr_rect
+		(start 191.3 163.2)
+		(end 196.1 168.257472)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "8e895f26-2a4e-43da-8c89-fdd03cc57e0b")
+	)
 	(gr_arc
 		(start 194.9 243.700581)
 		(mid 188.85393 241.216782)
@@ -27869,6 +27880,17 @@
 		(layer "Edge.Cuts")
 		(uuid "1b9741ff-9680-440c-a12f-3b3e526abab8")
 	)
+	(gr_rect
+		(start 214.9 150.8)
+		(end 221.1 157.3)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "45106ba6-7b9f-45b9-ab11-df7f55bfc81e")
+	)
 	(gr_arc
 		(start 234 146.4)
 		(mid 236.295273 145.976686)
@@ -27879,6 +27901,28 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "79926188-8326-487f-a49a-55c017b621bb")
+	)
+	(gr_rect
+		(start 245.8 149.2)
+		(end 252.7 154.05)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "28ae14ed-4081-43b3-94ee-c493e228fde7")
+	)
+	(gr_rect
+		(start 278.4 163.3)
+		(end 281.9 168.257472)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "a907d171-69fe-4add-b298-2601517835d6")
 	)
 	(gr_line
 		(start 286.149467 168.257472)
